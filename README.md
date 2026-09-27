@@ -1,4 +1,4 @@
-# **AI Student Chatbot**
+# **EduBot-AI**
 
 ## 🎓 Overview  
 The **AI Student Chatbot** is an intelligent assistant designed to help students access academic information quickly and interactively. Built with a clean UI and a modular backend, the chatbot uses NLP techniques to understand user queries and respond with relevant information.
